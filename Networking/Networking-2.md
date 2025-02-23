@@ -63,4 +63,4 @@ If your ISP’s DNS server does not know the IP address, it performs a **recursi
 5️⃣ **Response is sent back to your laptop**  
 6️⃣ **Browser uses the IP to make an HTTPS request**  
 
-This entire process takes **milliseconds** but is critical for web browsing! 🚀
+This entire process takes **milliseconds** but is critical for web browsing! 🚀🚀
