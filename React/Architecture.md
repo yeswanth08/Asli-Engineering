@@ -1,7 +1,3 @@
-Since you want a **step-by-step deep dive into React's internal architecture**, let’s break it down systematically. Here’s a structured roadmap:  
-
----
-
 ## **Step 1: Understanding How React Works Internally**  
 Before diving into Fiber, let’s understand how React **renders, updates, and reconciles** components.  
 
